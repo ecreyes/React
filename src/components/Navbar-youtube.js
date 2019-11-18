@@ -62,13 +62,11 @@ class NavbarYoutubeItems extends React.Component {
 class NavbarYoutube extends React.Component {
     render() {
         return (
-            <div>
-                <nav className="navbar sticky-top navbar-expand navbar-light bg-blanco">
-                    <NavbarYoutubeLogo/>
-                    <NavbarYoutubeSearch/>
-                    <NavbarYoutubeItems/>
-                </nav>
-            </div>
+            <nav className="navbar sticky-top navbar-expand navbar-light bg-blanco">
+                <NavbarYoutubeLogo />
+                <NavbarYoutubeSearch />
+                <NavbarYoutubeItems />
+            </nav>
         );
     }
 }
