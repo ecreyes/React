@@ -1,0 +1,39 @@
+.tiempo-video{
+    width: 40px;
+    height: 20px;
+    background-color: #000000;
+    color:white;
+    font-size: 12px;
+}
+
+.no-padding-tb{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.no-padding-lr{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.no-padding{
+    padding:0;
+}
+
+
+.no-border{
+    border: none;
+}
+
+.titulo-video{
+    font-size: 13px;
+}
+
+.body-titulo{
+    font-size: 13px;
+    color: darkgray;
+}
+
+.bg-plomo{
+    background-color: #FAFAFA;
+}
